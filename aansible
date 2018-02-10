@@ -10,8 +10,8 @@ path=/home/$whoami/Ansible_automation
 home=/home/$whoami
 
 echo ""
-sudo chmod +x aansible
-sudo cp aansible /usr/bin
+#sudo chmod +x aansible
+#sudo cp aansible /usr/bin
 
 #function
 check()
